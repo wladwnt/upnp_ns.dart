@@ -1,4 +1,4 @@
-part of upnp;
+part of upnp_ns;
 
 const String _SOAP_BODY = """
 <?xml version="1.0" encoding="utf-8"?>
