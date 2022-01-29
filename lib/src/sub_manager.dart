@@ -1,4 +1,4 @@
-part of upnp;
+part of upnp_ns;
 
 class StateSubscriptionManager {
   HttpServer? server;
