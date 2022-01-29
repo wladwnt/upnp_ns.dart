@@ -1,4 +1,4 @@
-part of upnp.dial;
+part of upnp_ns.dial;
 
 class DialScreen {
   static Stream<DialScreen> find({
