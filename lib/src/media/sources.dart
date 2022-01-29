@@ -1,2 +1,2 @@
-part of upnp.media;
+part of upnp_ns.media;
 
