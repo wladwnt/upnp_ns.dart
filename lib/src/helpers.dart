@@ -1,4 +1,4 @@
-part of upnp;
+part of upnp_ns;
 
 class WemoHelper {
   static Map<String, dynamic> parseAttributes(String input) {
