@@ -1,4 +1,4 @@
-import "package:upnp/upnp.dart";
+import "package:upnp_ns/upnp_ns.dart";
 
 void main() {
   var discover = new DeviceDiscoverer();
