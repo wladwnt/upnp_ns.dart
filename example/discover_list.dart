@@ -1,4 +1,4 @@
-import "package:upnp/upnp.dart";
+import "package:upnp_ns/upnp.dart";
 
 main() async {
   var disc = new DeviceDiscoverer();
