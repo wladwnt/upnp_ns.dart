@@ -1,4 +1,4 @@
-part of upnp.router;
+part of upnp_ns.router;
 
 class Router {
   static Future<Router?> find() async {
