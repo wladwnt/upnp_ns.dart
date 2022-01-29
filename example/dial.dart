@@ -1,4 +1,4 @@
-import "package:upnp/dial.dart";
+import "package:upnp_ns/dial.dart";
 
 main() async {
   await for (DialScreen screen in DialScreen.find()) {
