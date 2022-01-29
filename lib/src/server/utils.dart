@@ -1,4 +1,4 @@
-part of upnp.server;
+part of upnp_ns.server;
 
 class UpnpHostUtils {
   static Future<String> getCurrentIp() async {
