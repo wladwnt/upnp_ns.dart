@@ -1,4 +1,4 @@
-library upnp.dial;
+library upnp_ns.dial;
 
 import "dart:async";
 import "dart:io";
