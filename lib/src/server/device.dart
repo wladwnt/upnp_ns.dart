@@ -1,4 +1,4 @@
-part of upnp.server;
+part of upnp_ns.server;
 
 class UpnpHostDevice {
   final String? deviceType;
