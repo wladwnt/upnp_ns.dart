@@ -1,4 +1,4 @@
-library upnp.router;
+library upnp_ns.router;
 
 import "dart:async";
 
