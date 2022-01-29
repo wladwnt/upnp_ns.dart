@@ -1,4 +1,4 @@
-library upnp;
+library upnp_ns;
 
 import "dart:async";
 import "dart:convert";
