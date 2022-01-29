@@ -1,4 +1,4 @@
-part of upnp;
+part of upnp_ns;
 
 final InternetAddress _v4_Multicast = new InternetAddress("239.255.255.250");
 final InternetAddress _v6_Multicast = new InternetAddress("FF05::C");
