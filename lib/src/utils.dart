@@ -1,4 +1,4 @@
-library upnp.utils;
+library upnp_ns.utils;
 
 import "dart:io";
 
