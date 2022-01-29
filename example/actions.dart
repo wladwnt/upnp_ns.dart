@@ -1,4 +1,4 @@
-import "package:upnp/upnp.dart";
+import "package:upnp_ns/upnp_ns.dart";
 
 main(List<String> args) async {
   var client = new DiscoveredClient.fake(args[0]);
